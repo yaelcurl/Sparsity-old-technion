@@ -15,7 +15,10 @@ for the same H parameter;
 objective measures of image separation, separation offine details vs. 
 rough texture andthe choice of crucialalgorithm's parameters.
 
+![image](readme_image.jpg)
+
+
 External libraries:
 - ksvdbox12 (Ron Rubinstein)
 - Local_MCA_KSVD (Michael Elad matlab book package)
-- Fraclab 
+- synth2 (Fraclab) 
